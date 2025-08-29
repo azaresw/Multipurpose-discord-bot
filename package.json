@@ -3,6 +3,10 @@
   "version": "11.0.0",
   "description": "A Discord Bot made by: Tomato#6966",
   "main": "index.js",
+  "engines": {
+  "node": "22",
+  "python": "3.12"
+},
   "dependencies": {
     "@discordjs/builders": "^1.11.3",
     "@discordjs/opus": "^0.10.0",
